@@ -1,0 +1,99 @@
+.formulario{
+
+    width: 60%;
+    height: auto;
+    text-align: center;
+    background: rgb(38, 38, 38);
+    margin:auto;
+    color:white;
+    border-radius:25px;
+
+    
+}
+
+.frminput
+{
+
+padding: 12px;
+margin-top: 15px;
+margin-bottom: 15px;
+background: #747474;
+border-radius: 12px;
+cursor:pointer;
+color:white;
+font-size: 15px;
+
+}
+
+input{
+
+  width: 250px;
+
+}
+
+.frminput:hover{
+
+
+    
+    box-shadow: 3px 3px 3px 3px  #334bffb8;
+    transition: .3s;
+}
+
+#mensaje
+{
+
+margin-top: 12px;
+margin-bottom:12px;
+background: #747474;
+border-radius: 12px;
+cursor:pointer;
+color:white;
+font-size: 15px;
+
+}
+
+#mensaje:hover{
+    
+    
+    box-shadow: 3px 3px 3px 3px  #334bffb8;
+    transition: .3s;
+
+
+}
+
+
+
+
+
+#tiposeguro
+{
+
+    background: #747474;
+    color:white;
+    margin-top: 12px;
+    margin-bottom:12px;
+    padding:5px;
+    border-radius: 6px;
+    cursor:pointer;
+
+}
+
+#valortiposeguro
+{
+
+
+    margin-top:12px;
+    margin-bottom:12px;
+
+}
+
+
+button{
+
+padding:20px;
+border-radius: 12px;
+background: #10ff28b8;
+color:white;
+cursor:pointer;
+
+}
